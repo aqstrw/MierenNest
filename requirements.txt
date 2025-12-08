@@ -1,40 +1,74 @@
-blinker @ file:///home/conda/feedstock_root/build_artifacts/blinker_1731096409132/work
-Brotli @ file:///D:/bld/brotli-split_1756599174049/work
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1754231422783/work/certifi
-cffi @ file:///D:/bld/cffi_1758716094419/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1754767332901/work
-click @ file:///D:/bld/click_1758270401364/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
-dash @ file:///home/conda/feedstock_root/build_artifacts/dash_1754906381143/work
-dash-bootstrap-components @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_dash-bootstrap-components_1755725778/work
-Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1755674618058/work
-h2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_h2_1756364871/work
-hpack @ file:///home/conda/feedstock_root/build_artifacts/hpack_1737618293087/work
-hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1737618333194/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1733211830134/work
-importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_importlib-metadata_1747934053/work
-itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1733308265247/work
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/work
-MarkupSafe @ file:///D:/bld/markupsafe_1759055177330/work
-narwhals @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_narwhals_1759144776/work
-nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1733325553580/work
-numpy @ file:///D:/bld/bld/rattler-build_numpy_1757504921/work/dist/numpy-2.3.3-cp312-cp312-win_amd64.whl#sha256=8396faad196ae7f420d91a6cbeba6feb7ec3669202e23bae1e3ae4d5bb14e721
-packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1745345660/work
-pandas @ file:///D:/bld/pandas_1759265573875/work
-plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1755067229108/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pycparser_1733195786/work
-PySocks @ file:///D:/bld/pysocks_1733217287171/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1742920838005/work
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1755614211359/work
-retrying @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_retrying_1754219562/work
-setuptools==80.9.0
-six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1756220668/work
-tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1742745135198/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1750271362675/work
-Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1733160440960/work
-wheel==0.45.1
-win_inet_pton @ file:///D:/bld/win_inet_pton_1733130564612/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
-zstandard==0.25.0
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+# created-by: conda 25.9.0
+blinker=1.9.0=pyhff2d567_0
+brotli-python=1.1.0=py312hbb81ca0_4
+bzip2=1.0.8=h0ad9c76_8
+ca-certificates=2025.8.3=h4c7d964_0
+certifi=2025.8.3=pyhd8ed1ab_0
+cffi=2.0.0=py312he06e257_0
+charset-normalizer=3.4.3=pyhd8ed1ab_0
+click=8.3.0=pyh7428d3b_0
+colorama=0.4.6=pyhd8ed1ab_1
+dash=3.2.0=pyhd8ed1ab_0
+dash-bootstrap-components=2.0.4=pyhcf101f3_0
+flask=3.1.2=pyhd8ed1ab_0
+h2=4.3.0=pyhcf101f3_0
+hpack=4.1.0=pyhd8ed1ab_0
+hyperframe=6.1.0=pyhd8ed1ab_0
+icu=75.1=he0c23c2_0
+idna=3.10=pyhd8ed1ab_1
+importlib-metadata=8.7.0=pyhe01879c_1
+itsdangerous=2.2.0=pyhd8ed1ab_1
+jinja2=3.1.6=pyhd8ed1ab_0
+libblas=3.9.0=35_h5709861_mkl
+libcblas=3.9.0=35_h2a3cdd5_mkl
+libexpat=2.7.1=hac47afa_0
+libffi=3.4.6=h537db12_1
+libhwloc=2.12.1=default_h64bd3f2_1002
+libiconv=1.18=hc1393d2_2
+liblapack=3.9.0=35_hf9ab0e9_mkl
+liblzma=5.8.1=h2466b09_2
+libsqlite=3.50.4=hf5d6505_0
+libwinpthread=12.0.0.r4.gg4f2fc60ca=h57928b3_9
+libxml2=2.15.0=ha29bfb0_1
+libxml2-16=2.15.0=h06f855e_1
+libzlib=1.3.1=h2466b09_2
+llvm-openmp=21.1.2=hfa2b4ca_2
+markupsafe=3.0.3=py312h05f76fc_0
+mkl=2024.2.2=h57928b3_16
+narwhals=2.6.0=pyhcf101f3_0
+nest-asyncio=1.6.0=pyhd8ed1ab_1
+numpy=2.3.3=py312ha72d056_0
+openssl=3.5.4=h725018a_0
+packaging=25.0=pyh29332c3_1
+pandas=2.3.3=py312hc128f0a_1
+pip=25.2=pyh8b19718_0
+plotly=6.3.0=pyhd8ed1ab_0
+pycparser=2.22=pyh29332c3_1
+pysocks=1.7.1=pyh09c184e_7
+python=3.12.11=h3f84c4b_0_cpython
+python-dateutil=2.9.0.post0=pyhe01879c_2
+python-tzdata=2025.2=pyhd8ed1ab_0
+python_abi=3.12=8_cp312
+pytz=2025.2=pyhd8ed1ab_0
+requests=2.32.5=pyhd8ed1ab_0
+retrying=1.4.2=pyhe01879c_0
+setuptools=80.9.0=pyhff2d567_0
+six=1.17.0=pyhe01879c_1
+tbb=2021.13.0=h18a62a1_3
+tk=8.6.13=h2c6b04d_2
+typing_extensions=4.15.0=pyhcf101f3_0
+tzdata=2025b=h78e105d_0
+ucrt=10.0.26100.0=h57928b3_0
+urllib3=2.5.0=pyhd8ed1ab_0
+vc=14.3=h41ae7f8_31
+vc14_runtime=14.44.35208=h818238b_31
+vcomp14=14.44.35208=h818238b_31
+werkzeug=3.1.3=pyhd8ed1ab_1
+wheel=0.45.1=pyhd8ed1ab_1
+win_inet_pton=1.1.0=pyh7428d3b_8
+zipp=3.23.0=pyhd8ed1ab_0
+zstandard=0.25.0=py312he5662c2_0
+zstd=1.5.7=hbeecb71_2
